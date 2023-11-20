@@ -1,3 +1,8 @@
+This is a "fork" of: https://github.com/PlybotPrinter/klipper/tree/341ca7f0e34b7e77554ccc7cc8491b8ef724bf07
+attempting to bring it to the newer version of klipper.
+
+I am not responsible for any damages on injuries caused by the provided software.
+
 Welcome to the Klipper project!
 
 [![Klipper](docs/img/klipper-logo-small.png)](https://www.klipper3d.org/)
